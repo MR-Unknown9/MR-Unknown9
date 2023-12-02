@@ -20,6 +20,8 @@ started my coding journey in 2020, and now looking for more advanced levels.
 <img align = "left" alt = "androidStudio" width = "30px" style = "padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
 <img align = "left" alt = "androidStudio" width = "30px" style = "padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
+---
+
 ## Contact me
 
 <p align="left">
