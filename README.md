@@ -21,4 +21,4 @@ Wish me luck 🥰
 ---
 # Social
 
-[Facebook](https://www.facebook.com/khaled.taha.96199)
+[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg](https://www.facebook.com/khaled.taha.96199)
