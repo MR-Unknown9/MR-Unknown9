@@ -21,4 +21,4 @@ Wish me luck 🥰
 ---
 # Social media
 
-!["C:\Users\khale\Downloads\facebook.png"](https://www.facebook.com/khaled.taha.96199)
+![facebook.png](https://www.facebook.com/khaled.taha.96199)
