@@ -21,6 +21,4 @@ Wish me luck 🥰
 ---
 # Social media
 
-<a herf = "https://www.facebook.com/khaled.taha.96199">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-</a>
+![https://www.flaticon.com/free-icon/facebook_2504903?term=facebook&page=1&position=11&origin=search&related_id=2504903](https://www.facebook.com/khaled.taha.96199)
