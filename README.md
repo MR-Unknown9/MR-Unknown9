@@ -21,4 +21,7 @@ Wish me luck 🥰
 ---
 # Social media
 
-![facebook.png](https://www.facebook.com/khaled.taha.96199)
+<p align="left">
+<a href="https://twitter.com/@khaledt35008452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@khaledt35008452" height="30" width="40" /></a>
+<a href="https://fb.com/khaled.taha.96199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khaled.taha.96199" height="30" width="40" /></a>
+</p>
