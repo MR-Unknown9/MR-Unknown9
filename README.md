@@ -10,6 +10,8 @@ My name is Khaled Taha, I'm a 2nd-grade CS student, studying at the faculty of c
 started my coding journey in 2020, and now looking for more advanced levels.
 **Wish me luck 🥰**
 
+---
+
 ## Tools and Languages
 
 <img align = "left" alt = "androidStudio" width = "30px" style = "padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -17,8 +19,6 @@ started my coding journey in 2020, and now looking for more advanced levels.
 <img align = "left" alt = "androidStudio" width = "30px" style = "padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align = "left" alt = "androidStudio" width = "30px" style = "padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
 <img align = "left" alt = "androidStudio" width = "30px" style = "padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
----
 
 ## Contact me
 
