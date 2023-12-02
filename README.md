@@ -19,6 +19,8 @@ Wish me luck 🥰
 <img align = "left" alt = "androidStudio" width = "30px" style = "padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 ---
-# Social
+# Social media
 
-[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg](https://www.facebook.com/khaled.taha.96199)
+<a herf = "https://www.facebook.com/khaled.taha.96199">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+</a>
