@@ -12,4 +12,6 @@ Wish me luck 🥰
 
 ## Tools and Languages
 
-<img align = "left" alt = "androidStudio" width = "30px" style = "padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<!-- <img align = "left" alt = "androidStudio" width = "30px" style = "padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align = "left" alt = "androidStudio" width = "30px" style = "padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> -->
+![androidStudio](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg)
