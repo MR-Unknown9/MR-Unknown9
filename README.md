@@ -2,15 +2,13 @@
 
 **`The upcoming Digital creatman`**
 
-![Alt text](image-1.png)
+👋 Hello,
 
 My name is Khaled Taha, I'm a 2nd-grade CS student, studying at the faculty of computers and information - at Suez Canal University
 *Ismailia branch*.
 
 started my coding journey in 2020, and now looking for more advanced levels.
-Wish me luck 🥰
-
----
+**Wish me luck 🥰**
 
 ## Tools and Languages
 
@@ -22,7 +20,7 @@ Wish me luck 🥰
 
 ---
 
-## Social media
+## Contact me
 
 <p align="left">
 <a href="https://twitter.com/@khaledt35008452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@khaledt35008452" height="30" width="40" /></a>
