@@ -23,5 +23,8 @@ Wish me luck 🥰
 
 <p align="left">
 <a href="https://twitter.com/@khaledt35008452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@khaledt35008452" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mrunknown19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mrunknown19" height="30" width="40" /></a>
 <a href="https://fb.com/khaled.taha.96199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khaled.taha.96199" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/1_unknown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="1_unknown" height="30" width="40" /></a>
+<a href="https://discord.gg/613880800198262786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="613880800198262786" height="30" width="40" /></a>
 </p>
