@@ -5,6 +5,10 @@
 - An undergraduate CS student, Faculty of Computers and Information - Suez-Canal University - Ismailia branch.
 - 🌱 I’m currently learning **Java, C++, Front-end**
 
+<p align = "left">
+<img src = "https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif" widh = "400">
+</p>
+
 ---
 
 ## Languages and Tools:
@@ -43,7 +47,3 @@
 </p>
 
 ---
-
-<p>
-  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mr-unknown9&show_icons=true&locale=en" alt="mr-unknown9" />
-</p>
