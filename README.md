@@ -1,5 +1,6 @@
-<h1 align="center">Hi<img src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "40" hight = "40"/>, 
-I'm Khaled taha</h1>
+<h1 align="center">Hi<img src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "40" hight = "40"/>, </h1>
+
+**I'm Khaled Taha**
 
 ## About me:
 
