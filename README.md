@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Java, C++, Front-end**
 
 <p align = "left">
-<img src = "https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif" widh = "400">
+<img src = "https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif" widh = "40" height = "40">
 </p>
 
 ---
@@ -45,5 +45,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@khaledt35008452" height="30" width="40" />
   </a>
 </p>
-
----
