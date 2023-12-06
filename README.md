@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled taha</h1>
-<h3 align="center">An undergraduate CS student, Faculty of Computers and Information - Suez-Canal University - Ismailia branch.</h3>
-<img align = "right" alt = "Funycoding" width = "400" src = "https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
+<h2 align="center">An undergraduate CS student, Faculty of Computers and Information - Suez-Canal University - Ismailia branch.</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-unknown9" alt="mr-unknown9" /></a> </p>
 
