@@ -17,8 +17,6 @@
 <a href="https://codeforces.com/profile/1_unknown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="1_unknown" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-unknown9" alt="mr-unknown9" /></a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-unknown9&show_icons=true&locale=en&layout=compact" alt="mr-unknown9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-unknown9&show_icons=true&locale=en" alt="mr-unknown9" /></p>
