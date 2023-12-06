@@ -1,8 +1,7 @@
-<h1>Hi<img src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "40" hight = "40"/></h1>
+# Hi<img src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "40" hight = "40"/>, My name is **Khaled Taha**
 
-<p> My name is **Khaled Taha**, </p>
-<p>An undergraduate CS student at the Faculty of Computers and Information At Suez-Canal University - Ismailia branch,</p>
-I’m currently learning **Java, C++, Front-end**
+- An undergraduate CS student at the Faculty of Computers and Information At Suez-Canal University - Ismailia branch,</p>
+- I’m currently learning **Java, C++, Front-end**
 <img align = "right" src = "https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif" width = "400"/>
 
 ---
