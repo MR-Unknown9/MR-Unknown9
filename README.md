@@ -4,7 +4,7 @@
 
 - An undergraduate CS student, Faculty of Computers and Information - Suez-Canal University - Ismailia branch.
 - 🌱 I’m currently learning **Java, C++, Front-end**
-<img align = "right" src = "https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif" widh = "400" height = "400">
+<img align = "right" src = "https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif" width = "400" height = "400">
 
 ---
 
