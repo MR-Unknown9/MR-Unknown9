@@ -1,4 +1,4 @@
-<img src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "40" hight = "40"/> **Hi, My name is Khaled Taha**
+# <img src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "40" hight = "40"/> Hi, My name is *Khaled Taha*
 
 - An undergraduate CS student at the Faculty of Computers and Information At Suez-Canal University - Ismailia branch,</p>
 - I’m currently learning **Java, C++, Front-end**
