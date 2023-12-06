@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khaled taha</h1>
 
-<h2>About me:</h2>
+## About me:
 
 - An undergraduate CS student, Faculty of Computers and Information - Suez-Canal University - Ismailia branch.
 - 🌱 I’m currently learning **Java, C++, Front-end**
 
+---
 
-### Languages and Tools:
+## Languages and Tools:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/>
@@ -21,7 +22,7 @@
 
 ---
 
-### Connect with me:
+## Connect with me:
 
 <p align="left">
   <a href="https://stackoverflow.com/users/21764709/mrunknown19" target="blank">
