@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaled taha</h1>
 
-## about me:
+<h2>About me:</h2>
 
 - An undergraduate CS student, Faculty of Computers and Information - Suez-Canal University - Ismailia branch.
 - 🌱 I’m currently learning **Java, C++, Front-end**
