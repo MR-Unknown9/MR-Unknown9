@@ -1,4 +1,4 @@
-<img align = "center" src = "https://th.bing.com/th/id/R.1810b794a2852849078bca68fcbb7fe3?rik=f%2fzgNv2Fol5rEQ&pid=ImgRaw&r=0" /> 
+<img src = "https://th.bing.com/th/id/R.1810b794a2852849078bca68fcbb7fe3?rik=f%2fzgNv2Fol5rEQ&pid=ImgRaw&r=0" /> 
 <h1 align = "center"><img src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "40" hight = "40"/> Hi, My name is Khaled Taha</h1>
 
 ## About me:
