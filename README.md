@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khaled taha</h1>
+<h1 align="center">Hi <img src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "20" hight = "20"/>, I'm Khaled taha</h1>
 
 ## About me:
 
