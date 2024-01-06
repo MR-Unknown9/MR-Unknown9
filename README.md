@@ -1,6 +1,6 @@
 <h1 align = "center"><img src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "40" hight = "40"/> Hi, My name is Khaled Taha</h1>
 
-<br><p> Hey there! 👋 I'm a 20-year-old CS student trying to enhance my coding skills.
+<br><p> I'm a 20-year-old CS student trying to enhance my coding skills.
 Let's embark on a journey together, exploring the digital wonders while enjoying a warm cup of coffee. ☕</p>
 <p>I’m currently learning **Java, C++, Front-end**</p></br>
 
