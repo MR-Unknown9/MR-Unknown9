@@ -3,9 +3,7 @@
 <br>
 <p> Hey there! 👋 I'm a 20-year-old CS student trying to enhance my coding skills.
 Let's embark on a journey together, exploring the digital wonders while enjoying a warm cup of coffee. ☕</p>
-
-<p>I’m currently learning **Java, C++, Front-end**</p>
-</br>
+<p>I’m currently learning **Java, C++, Front-end**</p></br>
 
 ---
 
