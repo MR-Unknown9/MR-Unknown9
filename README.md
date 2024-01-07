@@ -33,10 +33,10 @@ Let's embark on a journey together, exploring the digital wonders while enjoying
   <a href="https://codeforces.com/profile/1_unknown" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="1_unknown" height="30" width="40" />
   </a>
-  <a href="https://fb.com/khaled.taha.96199" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khaled.taha.96199" height="30" width="40" />
+  <a href="https://fb.com/LodaTaha19" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="LodaTaha19" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/@khaledt35008452" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@khaledt35008452" height="30" width="40" />
+  <a href="https://twitter.com/@Khaled_A_Taha1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Khaled_A_Taha1" height="30" width="40" />
   </a>
 </p>
