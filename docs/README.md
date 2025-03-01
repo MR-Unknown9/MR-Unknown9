@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on a new project "To-Do list in Python"<br>- 📚 I'm currently learning AI and ML</p>
+<p align="left">- 🔭 I’m working on a new project "AI-Course"<br>- 📚 I'm currently learning AI and ML</p>
 
 ###
 
