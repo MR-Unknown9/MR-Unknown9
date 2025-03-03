@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on a new project <b>( AI-Course/titanic )</b><br>- 📚 I'm currently learning <b>ML</b> </p>
+<p align="left">- 🔭 I’m working on a new project <b>AI-Course/titanic</b><br>- 📚 I'm currently learning <b>ML</b> </p>
 
 ###
 
