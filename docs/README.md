@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Khaled!
+# <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="35" height="35"/> Hey, I'm Khaled!
 
 *20-year-old developer from Egypt • Coffee enthusiast • Problem solver*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;ML+%26+AI+Enthusiast;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+%26+Backend+Learner;Machine+Learning+Enthusiast;Backend+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
@@ -53,7 +53,12 @@ goal: "Building robust backend applications and APIs"
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MR-Unknown9&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/> <img height="170" src="https://streak-stats.demolab.com?user=MR-Unknown9&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=00D9FF&sideNums=00D9FF" alt="GitHub Streak" />
+<a href="https://github.com/MR-Unknown9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MR-Unknown9&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+</a>
+<a href="https://github.com/MR-Unknown9">
+  <img height="180em" src="https://streak-stats.demolab.com?user=MR-Unknown9&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=00D9FF&sideNums=00D9FF" alt="GitHub Streak" />
+</a>
 
 </div>
 
