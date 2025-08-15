@@ -4,7 +4,7 @@
 
 *20-year-old developer from Egypt • Coffee enthusiast • Problem solver*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+%26+Backend+Learner;Machine+Learning+Enthusiast;Backend+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Coffee+Enthusiast+%E2%98%95;AI+%26+Machine+Learning+Learner;Backend+Developer+with+Node.js;Always+Coding+%26+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
