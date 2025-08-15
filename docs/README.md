@@ -53,8 +53,7 @@ goal: "Building robust backend applications and APIs"
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MR-Unknown9&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="170" src="https://streak-stats.demolab.com?user=MR-Unknown9&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=00D9FF&sideNums=00D9FF" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MR-Unknown9&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/> <img height="170" src="https://streak-stats.demolab.com?user=MR-Unknown9&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=00D9FF&sideNums=00D9FF" alt="GitHub Streak" />
 
 </div>
 
@@ -67,9 +66,9 @@ goal: "Building robust backend applications and APIs"
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-taha-6a780b299/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Khaled_A_Taha1)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21764709/mrunknown19)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MR-Unknown9)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Khaled_A_Taha1)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1.unknown_.)
 
 </div>
 
