@@ -63,11 +63,18 @@ goal: "Contributing to impactful open-source ML projects"
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 <div align="center">
 
-[![AI Course](https://github-readme-stats.vercel.app/api/pin/?username=MR-Unknown9&repo=AI-Course&theme=nord&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF)](https://github.com/MR-Unknown9/AI-Course)
+### 🤖 [AI-Course/Titanic](https://github.com/MR-Unknown9/AI-Course)
+*Machine Learning project analyzing the famous Titanic dataset*
+
+[![Repository](https://img.shields.io/badge/Repository-View_Code-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MR-Unknown9/AI-Course)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MR-Unknown9/AI-Course)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/MR-Unknown9/AI-Course)
+
+---
 
 *More exciting projects coming soon! 🚀*
 
