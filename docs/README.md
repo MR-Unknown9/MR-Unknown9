@@ -4,7 +4,7 @@
 
 *20-year-old developer from Egypt • Coffee enthusiast • Problem solver*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Coffee+Enthusiast+%E2%98%95;AI+%26+Machine+Learning+Learner;Backend+Developer+with+Node.js;Always+Coding+%26+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Dev+%7C+Node.js+%26+Beyond;Training+AI+to+Replace+Me;Running+on+Coffee+%26+Chaos;Turning+Bugs+into+Features+Since+2020" alt="Typing SVG" />
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm studying **Computer Science** at Suez Canal University, passionate about turning complex problems into elegant solutions. When I'm not coding, you'll find me with a cup of coffee, brainstorming new ideas or diving into the latest tech trends.
+I'm studying Computer Science at Suez Canal University. I'm passionate about turning complex problems into elegant solutions. When I'm not coding, I'm usually with a cup of coffee, brainstorming new ideas, or researching the latest tech trends.
 
 **What drives me:**
 - **Problem-solving** through creative coding
