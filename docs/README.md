@@ -37,14 +37,20 @@ goal: "Contributing to impactful open-source ML projects"
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### Languages & Tools
+<img src="https://skillicons.dev/icons?i=python,cpp,c,git,linux,vscode&theme=dark" alt="Languages and Tools" />
 
-**Data Science & ML:** NumPy • Pandas • TensorFlow • Scikit-learn
+### Data Science & ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="ML Tools" />
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter"/>
+
+### Currently Learning
+<img src="https://skillicons.dev/icons?i=docker,aws,react&theme=dark" alt="Learning" />
 
 </div>
 
@@ -86,10 +92,27 @@ goal: "Contributing to impactful open-source ML projects"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-taha-6a780b299/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Khaled_A_Taha1)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21764709/mrunknown19)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/khaled_taha1918)
+<a href="https://www.linkedin.com/in/khaled-taha-6a780b299/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/Khaled_A_Taha1" target="_blank">
+<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Twitter"/>
+</a>
+<a href="https://stackoverflow.com/users/21764709/mrunknown19" target="_blank">
+<img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=F58025" alt="Stack Overflow"/>
+</a>
+
+<br/>
+
+<a href="https://www.hackerrank.com/profile/khaled_taha1918" target="_blank">
+<img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866" alt="HackerRank"/>
+</a>
+<a href="mailto:khaled.taha@example.com" target="_blank">
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+</a>
+<a href="https://github.com/MR-Unknown9" target="_blank">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+</a>
 
 </div>
 
