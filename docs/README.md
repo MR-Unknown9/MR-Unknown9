@@ -33,5 +33,4 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/khaled-taha-6a780b299/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge\&logo=stackoverflow\&logoColor=white)](https://stackoverflow.com/users/21764709/mrunknown19)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Khaled_A_Taha1)</div>
